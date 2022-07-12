@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rtematres"]
-	path = rtematres
-	url = https://github.com/cpfaff/rtematres
-	shallow = true
-	subdir = rtematres
-	registered = true
